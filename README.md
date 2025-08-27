@@ -5,8 +5,7 @@ My journey in tech has equipped me with hands-on experience in building full-sta
 
 🛠️ Key Projects
 
-🔗 Landoclock
- – A project where I honed my skills in delivering scalable and efficient solutions.
+🔗 Landoclock – A project where I honed my skills in delivering scalable and efficient solutions.
 
 🔗 Elementra Clone
  – A sleek clone project that demonstrates my ability to replicate complex layouts and craft modern, pixel-perfect UIs.
