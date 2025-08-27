@@ -5,12 +5,13 @@ My journey in tech has equipped me with hands-on experience in building full-sta
 
 🛠️ Key Projects
 
-Landoclock – A project where I honed my skills in delivering scalable and efficient solutions.
+🔗 Landoclock
+ – A project where I honed my skills in delivering scalable and efficient solutions.
 
-Elementra Clone
+🔗 Elementra Clone
  – A sleek clone project that demonstrates my ability to replicate complex layouts and craft modern, pixel-perfect UIs.
 
-RealMegaSoftware
+🔗 RealMegaSoftware
  – A personal software brand site where I showcased branding, responsive design, and user-focused layouts, built from scratch with a professional aesthetic.
 
 🎨 Design Showcase
@@ -23,7 +24,7 @@ Responsive & Accessible → Ensuring a seamless experience across all devices an
 
 Creative Storytelling → Each design is not just visuals, but an experience that reflects the project’s purpose.
 
-Featured Designs:
+✨ Featured Designs with Live Links:
 
 🔹 Elementra Clone
  → UI/UX clone with modern, interactive sections.
