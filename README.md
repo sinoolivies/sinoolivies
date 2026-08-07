@@ -3,7 +3,8 @@
   <p><strong>Full-Stack Engineer · AI Systems</strong></p>
   <p>
     <a href="https://realmegasoftware.netlify.app">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/sino_olivies">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343">LinkedIn</a>
+    
   </p>
   <br>
   <p>
@@ -48,11 +49,9 @@ I build production-grade full-stack systems with a focus on AI-augmented backend
 | AI / Vector | LangChain, Pinecone, LLMs, Prompt Engineering |
 | Backend | Node.js, Express, FastAPI, REST APIs |
 | Frontend | React, Next.js, TanStack, Tailwind, Bootstrap, PWA |
-| Database | PostgreSQL, MongoDB |
+| Database |Mysql, PostgreSQL, MongoDB |
 | Tools | Docker, Git |
 
 ## Contact
-
-- **Portfolio:** [realmegasoftware.netlify.app](https://realmegasoftware.netlify.app)
 - **LinkedIn:** [linkedin.com/in/sino_olivies](https://www.linkedin.com/in/sino_olivies)
 - **Email:** dushimimanaorivier184@gmail.com
