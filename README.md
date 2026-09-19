@@ -1,11 +1,16 @@
 <div align="center">
-  <h1>Olivier Dushiminana</h1>
-  <p><strong>Full-Stack Engineer · AI Systems</strong></p>
+  <h1>Hi, I'm Olivier Dushimimana (Sino) 👋</h1>
+  <p><strong>Software Developer & Product Engineer · AI Systems</strong></p>
+  <p>📍 Kigali, Rwanda 🇷🇼</p>
+  
   <p>
-    <a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343">LinkedIn</a>
-    
+    <a href="https://sinoolivies.github.io/porfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Visit_Site-50775a?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://wa.me/250794477622?text=Hello%20Olivier%2C%20I%20saw%20your%20GitHub%20and%20wanted%20to%20connect!"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
+
   <br>
+
   <p>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -17,41 +22,62 @@
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
-    <img src="https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack">
+    <img src="https://img.shields.io/badge/-Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </p>
 </div>
 
 ---
 
-I build production-grade full-stack systems with a focus on AI-augmented backends and clean user experiences.
+### ✦ About Me
 
-## Projects
+I build digital products and scalable full-stack applications that solve real-world problems. My engineering focuses on high-performance web systems, AI-augmented backends, responsive interfaces, and practical digital infrastructure.
 
-**ZenInfo** — Autonomous internet research engine. Removes algorithmic filtering to surface clear, timely insights. LLM + Pinecone + FastAPI + React.
+- 🔭 Currently building digital platforms, AI systems, and e-commerce solutions across Rwanda.
+- 💡 Exploring vector embeddings, RAG pipelines, agentic workflows, and smooth interaction engineering.
+- 💬 Ask me about **React, FastAPI, Node.js, LangChain, PostgreSQL, and Product Engineering**.
 
-**AfyaCare** — AI healthcare platform. Manages hospital appointments, doctor workflows, symptom-based diagnosis, and emergency response with nearby hospital geolocation. Integrates Gmail for automated alerts and appointment tracking.
+---
 
-**FoundRwanda** — Lost-item recovery platform. Citizens locate misplaced belongings across the country using high-accuracy, observation-backed matching.
+### 🚀 Featured Projects
 
-**Hospitality Hub** — Service management platform for restaurants, hotels, and hospitality providers. Table/client management, bookings, ordering, and service registration.
+#### 1. [jerseyinrwanda](https://www.jerseyinrwanda.com/) — E-Commerce Platform
+> A Rwanda-focused clothing and sportswear e-commerce platform built around local shopping, checkout, and mobile payment workflows.
+- **Tech Stack:** React · Tailwind CSS · Node.js · Express · PostgreSQL · PawPay
+- **Key Modules:** Product discovery, persistent cart & checkout, payment gateway integration, order tracking, admin portal.
 
-**SMS** — Stock management system for StockHub Ltd. Auth, CRUD, reporting with CSV/Excel export. Node/Express + React + Tailwind.
+#### 2. [Imari](https://imari-theta.vercel.app/) — Digital Finance & Analytics
+> A digital finance platform for managing financial activity, tracking money flows, and turning everyday transactions into clear financial insights.
+- **Key Modules:** Agent workflows, transaction tracking, loan calculations, financial dashboards.
 
-## What I work with
+#### 3. [Nura](https://nura-murex.vercel.app/) — AI-Assisted Healthcare Knowledge Retrieval
+> An intelligent hospital information retrieval system designed to assist healthcare personnel in accessing medical knowledge and managing patient information securely.
+- **Tech Stack:** React · FastAPI · LangChain · Qdrant Vector Search · MySQL
+- **Key Modules:** Contextual AI assistant, semantic medical retrieval, role-based security & access control.
 
-| Area | Technologies |
-|------|-------------|
-| AI / Vector | LangChain, Pinecone, LLMs, Prompt Engineering |
-| Backend | Node.js, Express, FastAPI, REST APIs |
-| Frontend | React, Next.js, TanStack, Tailwind, Bootstrap, PWA |
-| Database |Mysql, PostgreSQL, MongoDB |
-| Tools | Docker, Git |
+#### 4. [Found Rwanda](https://foundrwanda.vercel.app/) — National Discovery Platform
+> A Rwanda-wide discovery platform connecting residents and visitors with local businesses, destinations, services, and opportunities.
+- **Key Modules:** Verified business directory, places & tourism discovery, local service catalog.
 
-## Contact
-- **LinkedIn:** [linkedin.com/in/sino_olivies](https://www.linkedin.com/in/sino_olivies)
-- **Email:** dushimimanaorivier184@gmail.com
-- **phone:** 0794477622
+---
+
+### 🛠 Tech Stack & Expertise
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend** | React, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, GSAP, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express, Python, FastAPI, RESTful Architecture |
+| **AI & Vector DBs** | LangChain, Qdrant, Pinecone, RAG Pipelines, Prompt Engineering |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Tooling & DevOps** | Git, GitHub, Docker, Linux, Vite |
+
+---
+
+### 📬 Get in Touch
+
+- **WhatsApp:** [+250 794 477 622](https://wa.me/250794477622?text=Hello%20Olivier%2C%20I%20saw%20your%20GitHub%20and%20wanted%20to%20connect!)
+- **LinkedIn:** [linkedin.com/in/olivier-dushimimana-b941ab343](https://www.linkedin.com/in/olivier-dushimimana-b941ab343/)
+- **Email:** [dushimimanaorivier184@gmail.com](mailto:dushimimanaorivier184@gmail.com)
+- **Portfolio:** [sinoolivies.github.io/porfolio](https://sinoolivies.github.io/porfolio/)
