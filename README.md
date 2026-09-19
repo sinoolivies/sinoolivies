@@ -2,10 +2,11 @@
   <h1>Olivier Dushimimana (Sino)</h1>
   <p><strong>Software Developer & Product Engineer · AI Systems</strong></p>
   <p>Kigali, Rwanda</p>
+  
   <p>
-    <a href="https://sinoolivies.github.io/porfolio/"><strong>Explore Live Portfolio →</strong></a> &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343/">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://wa.me/250794477622?text=Hello%20Olivier%2C%20I%20saw%20your%20GitHub%20and%20wanted%20to%20connect!">WhatsApp</a>
+    <a href="https://sinoolivies.github.io/porfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Visit_Site-50775a?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://wa.me/250794477622?text=Hello%20Olivier%2C%20I%20saw%20your%20GitHub%20and%20wanted%20to%20connect!"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
 </div>
 
