@@ -8,23 +8,15 @@ Actually:
 
 🌱 I'm learning more about product and project management, while continuing to work on software and AI engineering.
 
-👯 I enjoy meeting new people, talking with them, and learning from their experiences.
+👯 I enjoy:
 
-🏊 Swimming is one of the things I enjoy outside of tech.
+* Meeting and talking with new people
+* Public speaking
+* Swimming
 
-🎤 I also like public speaking and getting the chance to speak in front of people.
+📫 You can find me here:
 
-<a href="https://www.linkedin.com/in/olivier-dushimimana-b941ab343/">
-  <img src="https://cdn.simpleicons.org/linkedin" width="28" />
-</a>
-&nbsp;&nbsp;
-<a href="https://olivier-pink.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel" width="28" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:dushimimanaorivier184@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="28" />
-</a>
+[**LinkedIn**](https://www.linkedin.com/in/olivier-dushimimana-b941ab343/) · [**Portfolio**](https://olivier-pink.vercel.app/) · [**Email**](mailto:dushimimanaorivier184@gmail.com)
 
 A few projects I've worked on:
 
