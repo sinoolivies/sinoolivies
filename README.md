@@ -16,7 +16,7 @@ Actually:
 
 📫 You can find me here:
 
-[**LinkedIn**](https://www.linkedin.com/in/olivier-dushimimana-b941ab343/) · [**Portfolio**](https://olivier-pink.vercel.app/) · [**Email**](mailto:dushimimanaorivier184@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/olivier-dushimimana-b941ab343/) · [**Portfolio**](https://olivier-pink.vercel.app/) · [**WhatsApp**](https://wa.me/250794477622) · [**Email**](mailto:dushimimanaorivier184@gmail.com)
 
 A few projects I've worked on:
 
